@@ -1,0 +1,25 @@
+tracki w ramach Product Squad:
+
+1) doprecyzowanie unique value proposition
+
+user market fit
+
+develper market fit
+
+2) wspieranie product ownerow
+
+np. interface GUI providera
+
+podobne rzeczy ktore pojawiaja sie w LWG
+
+3) inspirujace paczki dla developerow. gotowe klocki "do it yourself"
+
+paczki beda wisiec
+
+wystawienie bounty (za zrobienie tego i tego, golem wystawia nagrode)
+
+koordynacja i wytworzenie paczek
+
+przyklady paczek dostarczy RnD
+
+wspolpraca z teamem communication

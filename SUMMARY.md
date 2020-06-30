@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [STRONA](README.md)
 * [info](info.md)
 * [CAKES](cakes.md)
+* [Untixvxvxcvxtled](untixvxvxcvxtled.md)
 

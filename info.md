@@ -21,9 +21,83 @@ test3
 * [ ] test2
 * [ ] test3
 
-```text
+{% tabs %}
+{% tab title="" %}
+```
+
+```
+{% endtab %}
+
+{% tab title="" %}
+```
+
+```
+{% endtab %}
+
+{% tab title="A" %}
+```
+
+```
+{% endtab %}
+
+{% tab title="HAS" %}
+```haskell
 code blok!
 ```
+{% endtab %}
+
+{% tab title="B" %}
+### xzccsad
+
+
+
+asd
+
+```text
+code in code
+```
+
+
+
+```
+
+```
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="" %}
+```
+
+```
+{% endtab %}
+
+{% tab title="A" %}
+```text
+
+```
+{% endtab %}
+
+{% tab title="B" %}
+```
+
+```
+{% endtab %}
+
+{% tab title="" %}
+{% code title="file name" %}
+```
+fedfdfd
+
+f
+f
+f
+f
+f
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 > kuote
 >
